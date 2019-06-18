@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage
+  SchemaVersion="1.0"
+  AutodeskProduct="Revit"
+  Name="EasyConduit - ricaun"
+  Description="Connect multiple elements with conduit connector, creating conduits to connect the elements."
+  DescriptionPtb="Conecta diversos elementos que possuem coneção de conduíte, criando conduítes para conectar os elementos."
+  AppVersion="1.0.2" FriendlyVersion="1.0.2"
+  ProductType="Application"
+  Author="ricaun Apps"
+  HelpFile="./Contents/Resources/HelpFile.htm"
+  HelpFilePtb="./Contents/Resources/ArquivoAjuda.htm"
+  SupportedLocales="Enu|Ptb"
+  OnlineDocumentation="http://ricaun.com.br"
+  OnlineDocumentationPtb="http://ricaun.com.br">
+  >
+
+  <CompanyDetails Name="ricaun Apps" Url="http://ricaun.com.br" Email="ricaun@gmail.com" />
+
+  <Components Description="Revit 2017">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2017" SeriesMax="R2017" />
+    <ComponentEntry AppName="ricaun.EasyConduit" 
+                    ModuleName="./Contents/ricaun.EasyConduit.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2018">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2018" SeriesMax="R2018" />
+    <ComponentEntry AppName="ricaun.EasyConduit"
+                    ModuleName="./Contents/ricaun.EasyConduit.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2019">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2019" SeriesMax="R2019" />
+    <ComponentEntry AppName="ricaun.EasyConduit"
+                    ModuleName="./Contents/ricaun.EasyConduit.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2020">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2020" SeriesMax="R2020" />
+    <ComponentEntry AppName="ricaun.EasyConduit"
+                    ModuleName="./Contents/ricaun.EasyConduit.addin">
+    </ComponentEntry>
+  </Components>
+
+</ApplicationPackage>

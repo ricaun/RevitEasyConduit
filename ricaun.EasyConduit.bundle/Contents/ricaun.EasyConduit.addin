@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>EasyConduit</Name>
+    <Assembly>ricaun.EasyConduit.dll</Assembly>
+    <ClientId>89fc7119-0e38-4ccc-883f-712f8749a1ff</ClientId>
+    <FullClassName>ricaun.EasyConduit.App</FullClassName>
+    <Name>ricaun | EasyConduit</Name>
+    <VendorId>ricaun</VendorId>
+  </AddIn>
+</RevitAddIns>
