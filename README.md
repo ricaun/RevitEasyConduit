@@ -6,3 +6,5 @@ Download [EasyConduit 1.0.2](https://github.com/ricaun/RevitEasyConduit/raw/mast
 This is an alternative version of the [EasyConduit](https://apps.autodesk.com/RVT/en/Detail/Index?id=8693458165245000580) published on Autodesk Apps.
 
 This is a simple executable configuration with [Inno Setup](http://www.jrsoftware.org/isinfo.php) to extract the files on the ApplicationPlugins folder.
+
+More information about the EasyConduit plugin access [ricaun.com](https:/ricaun.com)
