@@ -6,9 +6,9 @@
 ; by Luiz Henrique Cassettari 
 
 #define AppName "EasyConduit"
-#define AppVersion "1.0.2"
+#define AppVersion "1.0.2.9"
 #define AppPublisher "ricaun.com"
-#define AppComments "EasyConduit version 2017, 2018, 2019 and 2020."
+#define AppComments "EasyConduit version 2017, 2018, 2019, 2020 and 2021."
 #define Appbundle "ricaun.EasyConduit.bundle"
 
 [Setup]

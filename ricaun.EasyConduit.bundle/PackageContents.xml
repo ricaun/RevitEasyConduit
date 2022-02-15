@@ -44,5 +44,11 @@
                     ModuleName="./Contents/ricaun.EasyConduit.addin">
     </ComponentEntry>
   </Components>
-
+  
+  <Components Description="Revit 2021">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2021" SeriesMax="R2021" />
+    <ComponentEntry AppName="ricaun.EasyConduit"
+                    ModuleName="./Contents/ricaun.EasyConduit.addin">
+    </ComponentEntry>
+  </Components>
 </ApplicationPackage>
